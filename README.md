@@ -1,1 +1,1 @@
-# Leet-Code implementations
+# Leet code implementations
